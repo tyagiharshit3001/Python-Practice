@@ -1,0 +1,20 @@
+Segment,Country, Product , Discount Band ,Units Sold, Manufacturing Price , Sale Price ,Unit Cost
+Government,Canada, Carretera , None ,1618.5,3.00,20.00,1.99
+Government,Germany, Carretera , None ,1321,3.00,20.00,19.99
+Midmarket,France, Carretera , None ,2178,3.00,15.00,4.99
+Midmarket,Germany, Carretera , None ,888,3.00,15.00,19.99
+Midmarket,Mexico, Carretera , None ,2470,3.00,15.00,2.99
+Government,Germany, Carretera , None ,1513,3.00,350.00,4.99
+Midmarket,Germany, Montana , None ,1513,5.00,15.00,1.99
+Channel Partners,Canada, Montana , None ,2518,5.00,12.00,4.99
+Government,France, Montana , None ,2518,5.00,20.00,1.99
+Channel Partners,Germany, Montana , None ,1545,5.00,12.00,8.99
+Midmarket,Mexico, Montana , None ,2470,5.00,15.00,4.99
+Enterprise,Canada, Montana , None ,2665.5,5.00,125.00,1.99
+Small Business,Mexico, Montana , None ,958,5.00,300.00,19.99
+Government,Germany, Montana , None ,958,5.00,7.00,4.99
+Enterprise,Canada, Montana , None ,345,5.00,125.00,125
+Midmarket,USA, Montana , None ,615,5.00,15.00,15.99
+Government,USA, Paseo , None ,292,10.00,20.00,8.99
+Midmarket,Mexico, Paseo , None ,974,10.00,15.00,8.99
+Channel Partners,Canada, Paseo , None ,2518,10.00,12.00,19.99
